@@ -4,7 +4,7 @@
 
 - Created through Vite (React) https://vitejs.dev/
 - Deployed and hosted through Vercel
-- Production available at orders-frontend-khaki.vercel.app
+- Production available at [orders-frontend-khaki.vercel.app](orders-frontend-khaki.vercel.app)
 - Data tables/Components with MUI
 
 
